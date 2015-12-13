@@ -2,189 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79f6c8fd-d87a-4fc7-88b2-1e2b7a64d72e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/img/01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upload/user_images/28df5d90-1d71-421c-80c3-0dece04eb6dc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upload/user_images/3eed6153-435c-4886-a68c-97695fc2f87c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upload/user_images/719f1776-fca5-43e1-9cb0-cc6c3102d0c5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upload/user_images/818dd113-7e85-4cbd-8beb-a621cf0127c9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upload/user_images/83502cf0-6771-44bb-baaa-9ff9350a2d37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/Attracts-Money.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/B Nazanin+ Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/Descr.WD3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/css/Descr.WD3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/Descr.WD3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/js/Descr.WD3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/MitraWeb-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/Yekan.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/Yekan.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upload/user_images/a83c89a4-796e-4de3-9de9-7cd4f8ea9357.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/apple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/b_mali.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/blue-square.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upload/user_images/c8dd31fb-493c-4e32-afa0-e74bfa286bbc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upload/user_images/cd19a515-36a8-455f-803a-4cff1b4dd437.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/cover-contact.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upload/user_images/d67df797-382c-45f6-90d3-3211f5290724.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upload/user_images/da047491-9f7a-4828-bd2a-11b2deb3623e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/img/datatable-row-openclose.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/devices.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/document.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upload/user_images/e0595b1a-bc83-4ec8-9561-eddcbc9e97ec.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/upload/user_images/e9af1ffb-c91f-429e-95fd-640dc9eca10d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/financial management_0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/headshot-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/image269-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/logo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/logo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/logo3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/n00033435-b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/nf00088945-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/img/sidebar-toggler-purple.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/dropzone/images/spritemap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/dropzone/images/spritemap@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/testi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/img/thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/img/thumbs-up.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/dropzone/upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/@rel=1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/@title=0&amp;byline=0&amp;portrait=0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/css/M0 -192v1280q0 26 19 45t45 19h320v288q0 40 28 68t68 28h448q40 0 68 -28t28 -68v-288h320q26 0 45 -19t10BC293CA03" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/css/M0 -192v1664q0 26 19 45t45 19h1280q26 0 45 -19t19 -45v-1664q0 -26 -19 -45t-45 -19h-1280q-26 0 -45 190008561AD1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/css/M0 640q0 209 103 385.5t279.5 279.5t385.5 103t385.5 -103t279.5 -279.5t103 -385.5t-103 -385.5t-279.5 -0749587ABC" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/css/M11 -115q-10 23 7 66.5t18 54.5q1 16 -4 40t-10 42.5t-4.5 36.5t10.5 27q14 12 57 14t60 12q30 18 42 35t101E11B4A3A" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap-hover-dropdown/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Handlers/Test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Tornado.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/TornadoD3.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Handlers/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/_spinning.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/add_buy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/user/add_buy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/admin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Handlers/admin_handler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/scripts/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/dropzone/css/basic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/dropzone/css/stylus/basic.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/bill.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/user/bill.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap/css/bootstrap-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap/css/bootstrap-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap/js/bootstrap2-typeahead.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap/js/bootstrap2-typeahead.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap-hover-dropdown/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/del_transaction.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap-hover-dropdown/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/dropzone/css/dropzone-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/dropzone/css/dropzone.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/dropzone/dropzone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/dropzone/dropzone.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/dropzone/css/stylus/dropzone.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/home/forget_pass.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/form-elements.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/holder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/js/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/home/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Handlers/index_handler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/jquery-1.10.2.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/js/jquery-2.1.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/jquery-2.1.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/jquery-migrate-1.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/jquery.backstretch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/jquery.blockui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/jquery.cookie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/jquery.input-ip-address-control-1.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/jquery.mockjax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/jquery.pulsate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/jquery.sparkline.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/message.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/modir/modir.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/note.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/user/note.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/payments.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/css/prettyPhoto.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/profile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/profile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/user/profile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/css/themes/purple-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/home/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/css/simple-line-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/spinning.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/start.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/css/style-metronic-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/css/style-responsive-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/css/style-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Home/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/register/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/subscribers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/css/sweet-alert.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/scripts/alert/sweet-alert.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/testrunner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/admin/tinyconsumption.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/user/tinyconsumption.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap-hover-dropdown/twitter-bootstrap-hover-dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/bootstrap-hover-dropdown/twitter-bootstrap-hover-dropdown.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/user/user.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/plugins/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models.py" afterPath="$PROJECT_DIR$/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Tornado.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -248,10 +67,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343">
+            <state line="74" column="18" selection-start="2050" selection-end="2050" vertical-scroll-proportion="0.8544521" vertical-offset="759" max-vertical-offset="1377">
               <folding />
             </state>
           </provider>
@@ -284,10 +103,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="start.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="start.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/start.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="-0.22260274" vertical-offset="198" max-vertical-offset="782">
+            <state line="8" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
@@ -306,6 +125,13 @@
   <component name="GitLogSettings">
     <option name="myDateState">
       <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/models.py" />
+      </list>
     </option>
   </component>
   <component name="JsGulpfileManager">
@@ -343,7 +169,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -396,6 +221,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -410,8 +236,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -595,6 +421,9 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -616,9 +445,6 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -725,7 +551,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -766,9 +592,9 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17549168" sideWeight="0.6729452" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7576244" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28731942" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -852,13 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
@@ -882,7 +701,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/start.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="-0.22260274" vertical-offset="198" max-vertical-offset="782">
+        <state line="8" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="18" selection-start="2050" selection-end="2050" vertical-scroll-proportion="0.8544521" vertical-offset="759" max-vertical-offset="1377">
           <folding />
         </state>
       </provider>
