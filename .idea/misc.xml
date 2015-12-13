@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Unknown at E:/jekyll/PortableJekyll/Python/App/python-2.7.5.msi" project-jdk-type="Python SDK" />
 </project>
 
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.3.3 (C:\Python33\python.exe)" project-jdk-type="Python SDK" />
+</project>
+>>>>>>> cfffac91ea995740a1b1a3c5998ba69dd25cd2c8
